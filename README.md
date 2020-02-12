@@ -1,6 +1,6 @@
 <h1> Stock Predictor </h1>
 
-A upyter notebook which runs a variety of data science techniques that ultimately predicted the movement of a stock based on qualitative news headlines provided by a .csv file.
+Centers around a Jupyter notebook which runs a variety of data science techniques that ultimately predicted the movement of a stock based on qualitative news headlines provided by a .csv file.
 
 
 
